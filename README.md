@@ -2,10 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Birendra-97&label=Profile views&color=0e75b6&style=flat" alt="Birendra-97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Birendra-97" alt="Birendra-97" /></a> </p>
-
 - 🔭 I'm currently working on **Building Scalable, Cloud-Native .NET Full Stack Solutions | ASP.NET Core · C# · Azure · React | High-Performance & Secure Enterprise Apps**
 
 - 🌱 I'm currently learning **Aspiring Machine Learning Engineer with hands‑on experience in building predictive models, optimizing algorithms, and applying data science techniques to real‑world problems. **
