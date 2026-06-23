@@ -1,4 +1,4 @@
-# Hi 👋, I'm Birendra-97
+# Hi 👋, I'm Birendra
 
 ### A passionate developer from around the world
 
